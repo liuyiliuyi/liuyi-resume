@@ -83,13 +83,17 @@ nav li{
 	margin-left:12px;
 }
 
+.nav_ul_li:first-child>a {
+	color:#2ebfd9;
+}
+
 
 li>a:link{
 	color:#adafb2;
 }
 
 li>a:visited{
-	color:#2ebfd9;
+	color:#adafb2;
 }
 
 li>a:hover{
@@ -627,7 +631,6 @@ nav {
 	padding:10px;
 	text-align: center;
 }
-
 
 
 #left_bar {
